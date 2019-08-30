@@ -12,10 +12,10 @@
       "tags": []
     },
     "affected": {
-      "tags": []
+      "tags": ["scope:client"]
     },
     "test-lib": {
-      "tags": []
+      "tags": ["scope:lib"]
     }
   }
 }
