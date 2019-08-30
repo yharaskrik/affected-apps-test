@@ -1,5 +1,5 @@
 {
-  "npmScope": "affected",
+  "npmScope": "affected2",
   "implicitDependencies": {
     "angular.json": "*",
     "package.json": "*",
